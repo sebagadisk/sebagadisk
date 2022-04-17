@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/sebagadisk/Images/blob/main/GitHub%20Profile%20GIF.gif?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/sebagadisk/Images/blob/main/GitHub%20Profile%20GIF.gif?raw=true" align="center" style="width: 50%" />
 </div>  
   
 
