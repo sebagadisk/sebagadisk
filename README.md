@@ -54,6 +54,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/sebagadisk/Images/f0e301a657c61550de73a1b33183dbb32b904a6e/hibernate.svg" alt="Spring" height="50" />  
+  
 </div>
 
 </td><td valign="top" width="33%">
