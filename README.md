@@ -40,6 +40,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/sebagadisk/Images/8c37f1cb10289add62911e70447f9d75f9f9a531/thymeleaf-custom.svg" alt="Photoshop" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
