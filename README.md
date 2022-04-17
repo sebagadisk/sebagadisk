@@ -64,7 +64,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px; background: #fff;" src="https://github.com/sebagadisk/Images/blob/main/gnu-bash.png?raw=true" alt="Bash" height="50" />  
+<img style="margin: 10px; background: #fff;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
 </td></tr></table>  
