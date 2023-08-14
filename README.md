@@ -9,7 +9,7 @@
 - 🔭 Profession: Software engineer, full-stack developer  
   
 
-- 🌱 I'm currently full-stack software engineering student at Holberton School  
+- 🌱 I recently graduated with a associate degree in Full-Stack Software Engineering from Holberton School  
   
 
 - 🚀 Soft Skills: Creativity, Adaptability, Collaboration, Project Management, Persuasion  
@@ -18,7 +18,7 @@
 - 💪 Hard Skills: Problem-solving, multitasking, Attention to detail.  
   
 
-- ❤️ Hobbies: Coding, Games, Hiking, Music, Movie  
+- ❤️ Hobbies: Coding, Video Games, Hiking, Music, Movie  
   
 
 <br/>  
