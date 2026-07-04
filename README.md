@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 I'm Seb, a full-time full-stack developer 👨‍💻 working remotely since 2021🚀</div>  
+### <div align="center">👋 I'm Seb, a full-time senior full-stack developer 👨‍💻 working remotely since 2021🚀</div>  
   
 
 - 🔭 Profession: Software engineer, full-stack developer  
